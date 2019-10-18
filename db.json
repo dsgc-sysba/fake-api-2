@@ -51,59 +51,6 @@
         }
 		,
         {
-            "Numero": "5",{
-"doughnut": {
-      "labels": [
-         "Trabajando",
-         "En Espera",
-         "Finalizadas"
-      ],
-      "datasets": [
-         {
-            "data": [
-               300,
-               50,
-               100
-            ],
-            "backgroundColor": [
-               "#00FF00",
-               "#FF0000",
-               "#0000FF"
-            ],
-            "hoverBackgroundColor": [
-               "#00FF00",
-               "#FF0000",
-               "#0000FF"
-            ]
-         }
-      ],
-	 "cat_colaboradores": [
-        {
-            "Numero": "1",
-            "Nombre": "MArtín de Jesus Vlades Campos",
-            "Correo": "martin@coop.com",
-            "estatus": "activo"
-        },
-        {
-            "Numero": "2",
-            "Nombre": "Samuel Casas Mason",
-            "Correo": "samuel@coop.com",
-            "estatus": "activo"
-        },
-        {
-            "Numero": "3",
-            "Nombre": "Diego Said Grande",
-            "Correo": "diego@sysba.com",
-            "estatus": "activo"
-        },
-        {
-            "Numero": "4",
-            "Nombre": "Jose Abraham Alonso Ortega",
-            "Correo": "bjorn@sysba.com",
-            "estatus": "activo"
-        }
-		,
-        {
             "Numero": "5",
             "Nombre": "Jesus Garcia",
             "Correo": "chuy@sysba.com",
@@ -111,12 +58,4 @@
         }
     ]
   }
-}
-
-            "Nombre": "Jesus Garcia",
-            "Correo": "chuy@sysba.com",
-            "estatus": "activo"
-        }
-    ]
-  
 }
