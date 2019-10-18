@@ -25,6 +25,39 @@
          }
       ]
    
-}
+},
+      "cat_colaboradores": [
+        {
+            "Numero": 1,
+            "Nombre": "MArtín de Jesus Vlades Campos",
+            "Correo": "martin@coop.com",
+            "estatus": activo
+        },
+        {
+            "Numero": 2,
+            "Nombre": "Samuel Casas Mason",
+            "Correo": "samuel@coop.com",
+            "estatus": activo
+        },
+        {
+            "Numero": 3,
+            "Nombre": "Diego Said Grande",
+            "Correo": "diego@sysba.com",
+            "estatus": activo
+        },
+        {
+            "Numero": 4,
+            "Nombre": "Jose Abraham Alonso Ortega",
+            "Correo": "bjorn@sysba.com",
+            "estatus": activo
+        }
+		,
+        {
+            "Numero": 5,
+            "Nombre": "Jesus Garcia",
+            "Correo": "chuy@sysba.com",
+            "estatus": activo
+        }
+    ],    
 
 }
