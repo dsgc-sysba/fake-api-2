@@ -4,7 +4,7 @@
    "cat_colaboradores": [
       {
          "Numero": "1",
-         "Nombre": "MArtín de Jesus Vlades Campos",
+         "Nombre": "Martín de Jesus Vlades Campos",
          "Correo": "martin@coop.com",
          "estatus": "activo"
       },
@@ -58,6 +58,6 @@
             ]
          }
       ]
-   },
+   }
 }
 
