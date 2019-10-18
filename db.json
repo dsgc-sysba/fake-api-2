@@ -53,10 +53,10 @@
         }
 		,
         {
-            "Numero": 5,
+            "Numero": "5",
             "Nombre": "Jesus Garcia",
             "Correo": "chuy@sysba.com",
-            "estatus": activo
+            "estatus": "activo"
         }
     ],    
 
