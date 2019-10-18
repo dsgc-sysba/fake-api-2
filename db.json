@@ -23,10 +23,8 @@
                "#0000FF"
             ]
          }
-      ]
-   
-},
-      "cat_colaboradores": [
+      ],
+	 "cat_colaboradores": [
         {
             "Numero": "1",
             "Nombre": "MArtín de Jesus Vlades Campos",
@@ -58,6 +56,9 @@
             "Correo": "chuy@sysba.com",
             "estatus": "activo"
         }
-    ],    
+    ],   
+   
+},
+      
 
 }
