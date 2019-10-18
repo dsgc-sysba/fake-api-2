@@ -1,7 +1,6 @@
 
 
 {
-   "doughnut": {},
    "cat_colaboradores": [
       {
          "Numero": "1",
@@ -33,6 +32,32 @@
          "Correo": "chuy@sysba.com",
          "estatus": "activo"
       }
-   ]
+   ],
+   "doughnut": {
+      "labels": [
+         "Trabajando",
+         "En Espera",
+         "Finalizadas"
+      ],
+      "datasets": [
+         {
+            "data": [
+               300,
+               50,
+               100
+            ],
+            "backgroundColor": [
+               "#00FF00",
+               "#FF0000",
+               "#0000FF"
+            ],
+            "hoverBackgroundColor": [
+               "#00FF00",
+               "#FF0000",
+               "#0000FF"
+            ]
+         }
+      ]
+   },
 }
 
