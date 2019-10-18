@@ -48,8 +48,7 @@
             "Nombre": "Jose Abraham Alonso Ortega",
             "Correo": "bjorn@sysba.com",
             "estatus": "activo"
-        }
-		,
+        },
         {
             "Numero": "5",
             "Nombre": "Jesus Garcia",
@@ -57,4 +56,6 @@
             "estatus": "activo"
         }
     ]
+}
   }
+
